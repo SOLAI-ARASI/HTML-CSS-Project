@@ -440,6 +440,8 @@ form {
 }
 
 .sign-up-container {
+	position: relative;
+	top: 20px;
 	left: 0;
 	width: 50%;
 	opacity: 0;
@@ -615,7 +617,7 @@ form button:hover {
     outline: none;
     position: relative;
 	left: 40%;
-	bottom: 7px;
+	bottom: 20px;
     cursor: pointer;
 }
 
