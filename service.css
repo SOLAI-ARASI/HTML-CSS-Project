@@ -435,6 +435,8 @@ form {
 }
 
 .sign-up-container {
+	position: relative;
+	top: 23px;
 	left: 0;
 	width: 50%;
 	opacity: 0;
@@ -548,8 +550,8 @@ form {
     font-size: 25px;
     outline: none;
     position: relative;
-	top: 4px;
-	left: 91%;
+	top: -16px;
+	left: 94%;
     cursor: pointer;
 }
 
